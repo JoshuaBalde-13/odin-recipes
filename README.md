@@ -1,2 +1,2 @@
 # odin-recipes
-test commit
+This is my first project with my basic knowledge in HTML!
